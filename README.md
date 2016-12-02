@@ -32,4 +32,5 @@ The Clipper Card system already provides great value to the Bay Area's transit r
 Signers
 -------
 
-* Drew Dara-Abrams (lives in Burlingame; works in San Francisco; rides BART, Caltrain, MUNI, Samtrans)
+* Drew Dara-Abrams (lives in Burlingame; works in San Francisco; rides BART, Caltrain, MUNI, Samtrans) (signed original open letter)
+* Trent Oswald (Oz Haven, [therebelrobot](https://github.com/therebelrobot), [@therebelrobot](https://twitter.com/therebelrobot), Code for San Francisco, lives in Pacifica, works in SF, rides BART, MUNI, Samtrans) 
