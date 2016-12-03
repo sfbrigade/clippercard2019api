@@ -34,3 +34,4 @@ Signers
 
 * Drew Dara-Abrams (lives in Burlingame; works in San Francisco; rides BART, Caltrain, MUNI, Samtrans) (signed original open letter)
 * Trent Oswald (Oz Haven, [therebelrobot](https://github.com/therebelrobot), [@therebelrobot](https://twitter.com/therebelrobot), Code for San Francisco, lives in Pacifica, works in SF, rides BART, MUNI, Samtrans) 
+* Jesse Szwedko (lives in SF, rides MUNI and BART)
